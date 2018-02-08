@@ -1,5 +1,8 @@
 <template lang='pug'>
-img(src="./assets/logo.png")
+div#oops
+  img(src="./assets/logo.png")
+  h1 {{msg}}
+
 </template>
 
 <script>
