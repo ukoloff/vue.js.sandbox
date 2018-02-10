@@ -1,5 +1,5 @@
 <template lang='pug'>
-div#oops
+div
   img(src="./assets/logo.png")
   h1 {{msg}}
 
